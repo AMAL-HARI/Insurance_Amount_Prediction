@@ -3,6 +3,7 @@
 The insurance dataset contains information about individuals' age, gender, BMI, number of children, smoking status, and region,Medical history,Family medical history,Exercise frequently,occupation,coverage level as well as the associated insurance charges.
 
 Age: The age of the customer. (Float):
+
 Gender : Gender of the person (object):
 bmi : Body Mass Index(Float):
 Children: The number of children the customer has. (Integer)
